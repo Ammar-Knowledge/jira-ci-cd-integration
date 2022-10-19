@@ -1,0 +1,11 @@
+name: jira-ci-cd-integration
+id: ari:cloud:compass:fe16f236-8ecb-4445-8586-5ebd155a2533:component/639c4a85-a7f7-47da-af17-094b43ea6ccc/8ea46e00-51f3-4fca-ae86-20f25af10205
+description: Jira Integation for sending Build/Deploy information. Use with any CI/CD provider (via Docker)
+fields:
+  tier: 4
+links:
+  - type: REPOSITORY
+    name: null
+    url: https://github.com/Ammar-Knowledge/jira-ci-cd-integration
+relationships:
+  DEPENDS_ON: []
